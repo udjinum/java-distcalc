@@ -1,5 +1,9 @@
 package distillercalc;
 
+import distillercalc.models.Alcohol;
+import distillercalc.models.FermentationTank;
+import distillercalc.models.Sugar;
+
 import java.util.Scanner;
 
 public class DistillerCalculator {

@@ -1,6 +1,4 @@
-package distillercalc;
-
-import java.math.BigDecimal;
+package distillercalc.models;
 
 public class Sugar {
     private double density;

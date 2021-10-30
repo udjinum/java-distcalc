@@ -1,4 +1,4 @@
-package distillercalc;
+package distillercalc.models;
 
 public class Alcohol {
     private int volume;

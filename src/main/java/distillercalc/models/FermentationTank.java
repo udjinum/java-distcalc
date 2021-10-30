@@ -1,4 +1,4 @@
-package distillercalc;
+package distillercalc.models;
 
 public class FermentationTank {
     private int volume;
